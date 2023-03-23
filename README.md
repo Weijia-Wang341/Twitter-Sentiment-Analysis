@@ -2,10 +2,10 @@
 This project focuses on social listening for a jump starter product. Leveraging the Twitter API, we gather tweets from social media, followed by data cleaning and analysis. The output includes visualizations such as word clouds, histograms, and world maps, offering clients data-driven insights to make informed decisions on future product investments.
 
 ## Table of Contents
-* [Features](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis#features)
+* [Features](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#features)
 * [Data Visualization](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#Data_Visualization)
 * [Contributors](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#contributors)
-* [Credits](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis#Credits)
+* [Credits](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#credits)
 
 
 ## Features
@@ -20,10 +20,10 @@ This project focuses on social listening for a jump starter product. Leveraging 
 
 ![136900739-2e9ba85c-500b-434d-92a0-0bea23f5ed9a](https://user-images.githubusercontent.com/73563140/227321671-18bb84c9-f9c6-42eb-a410-038dff610e54.png)
 
-##Contributors
+## Contributors
 * Weijia Wang
 * Barry Yu
 * Giani Kurniawan
 
-##Credits
-*[Social listening via Twitter feed analysis](https://towardsdatascience.com/social-listening-via-twitter-feed-analysis-23fb4fbe7531)by Sheenal Srivastava
+## Credits
+* [Social listening via Twitter feed analysis](https://towardsdatascience.com/social-listening-via-twitter-feed-analysis-23fb4fbe7531)by Sheenal Srivastava
