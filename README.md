@@ -9,6 +9,17 @@ This project focuses on social listening for a jump starter product. Leveraging 
 
 
 ## Features
+The data analyses will provide different kinds of data visualizations include:
+
+* Tweet type pie chart
+* Top 10 most tweets within the United States
+* Frequency of tweets from the past 9 days
+* Word cloud
+* Total sentiment based on scores
+* Exploratory graph analysis
+* Number of users showing in US map
+
+## Data Visualization
 
 ![136900674-5f1072e3-e63d-482b-ac9f-89b26fa40642](https://user-images.githubusercontent.com/73563140/227321454-98801c10-e6f0-4ffc-ad35-2a6cdc2f341f.png)
 
