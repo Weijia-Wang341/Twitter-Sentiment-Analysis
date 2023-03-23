@@ -3,7 +3,7 @@ This project focuses on social listening for a jump starter product. Leveraging 
 
 ## Table of Contents
 * [Features](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#features)
-* [Data Visualization](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#data visualization)
+* [Visualization](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#visualization)
 * [Contributors](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#contributors)
 * [Credits](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/blob/main/README.md#credits)
 
@@ -19,7 +19,7 @@ The data analyses will provide different kinds of data visualizations include:
 * Exploratory graph analysis
 * Number of users showing in US map
 
-## Data Visualization
+## Visualization
 
 ![136900674-5f1072e3-e63d-482b-ac9f-89b26fa40642](https://user-images.githubusercontent.com/73563140/227321454-98801c10-e6f0-4ffc-ad35-2a6cdc2f341f.png)
 
