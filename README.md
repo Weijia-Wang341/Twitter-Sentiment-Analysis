@@ -19,7 +19,7 @@ The data analyses will provide different kinds of data visualizations include:
 * Exploratory graph analysis
 * Number of users showing in US map
 
-## Data Visualization
+## Visualization
 
 ![136900674-5f1072e3-e63d-482b-ac9f-89b26fa40642](https://user-images.githubusercontent.com/73563140/227321454-98801c10-e6f0-4ffc-ad35-2a6cdc2f341f.png)
 
