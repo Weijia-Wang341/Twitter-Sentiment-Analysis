@@ -31,7 +31,6 @@ The data analyses will provide different kinds of data visualizations include:
 
 ![136900739-2e9ba85c-500b-434d-92a0-0bea23f5ed9a](https://user-images.githubusercontent.com/73563140/227321671-18bb84c9-f9c6-42eb-a410-038dff610e54.png)
 
-![image](https://github.com/Weijia-Wang341/Twitter-Sentiment-Analysis/assets/73563140/759d8dfa-ad06-42c5-91b7-2ed974142c2e)
 
 
 ## Contributors
